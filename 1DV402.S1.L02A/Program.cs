@@ -14,7 +14,7 @@ namespace _1DV402.S1.L02A
             {
                 if (row % 2 != 0)
                 {
-                    Console.Write(" ");
+                    Console.Write(" "); // test
                 }
 
                 for (int column = 0; column < 38; column++)
